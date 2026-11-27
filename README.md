@@ -1,14 +1,14 @@
 Tutorial for MongoDB + Node.js+ Express.js
 
-## Dependencies:
-    1. Nodemon
-        Automates server restart (causes vulnerabilities so removed)
+Dependencies:<br>
+1. Nodemon<br>
+Automates server restart
     
-    2. dotenv
-        Loads key-value pairs from .env files
+2. dotenv<br>
+Loads key-value pairs from .env files
 
-    3. Express
-        Framework for Node.js to simply backend development
+3. Express<br>
+Framework for Node.js to simply backend development
     
-    4. Mongoose
-        To simplify APi working with JS documents.
+4. Mongoose<br>
+To simplify APi working with JS documents.
